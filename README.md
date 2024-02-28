@@ -5,4 +5,4 @@ the gravitaional relationship between trade volumes of elite soccer players and 
 
 The web app is available on streamlit community cloud:
 
-Link: https://capstone-ms2tlq6rwtrmwybukwvhkk.streamlit.app/
+Link: [Streamlit Web App](https://capstone-gma4ejnxq3vrcn3b7bpkpi.streamlit.app/)
